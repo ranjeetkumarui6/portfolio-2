@@ -11,9 +11,10 @@
 .about-Img {
     width: 90%;
     height: 600px;
-    background-image: url(../../assets/mypic2.jpg);
+    background-image: url(../../assets/mypic2.png);
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 0%;
     margin: 0 auto;
 
 }

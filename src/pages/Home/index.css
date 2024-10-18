@@ -6,7 +6,8 @@
 .home-img {
     width: 90%;
     height: 600px;
-    background-image: url(../../assets/mypic.jpg);
+    background-image: url(../../assets/mypic11.png);
+    background-color: black;
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
