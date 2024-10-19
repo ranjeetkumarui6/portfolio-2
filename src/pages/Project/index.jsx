@@ -132,9 +132,9 @@ const Project = forwardRef((props, ref) => {
                 <div className="text text-center">
                   <div className="content">
                     <h3>
-                      <a href="https://ranjeet-bee-game.netlify.app">Click to play</a>
+                      <a href="https://ranjeet-atm-machine-app.netlify.app">Click to play</a>
                     </h3>
-                    <span>Our Bee Game</span>
+                    <span>ATM Machine App</span>
                   </div>
                 </div>
               </div>
